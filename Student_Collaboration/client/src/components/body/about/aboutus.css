@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&family=News+Cycle&display=swap');
+
+
+.about-container{
+    display: flex;
+    flex-direction: row;
+    height: 370px;
+}
+
+.about-heading{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 80px;    
+    box-shadow: 2px 5px 10px silver;
+    border-radius: 15px;
+    text-shadow: 0px 3px 10px silver;
+    background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
+}
+
+
+.about-container{
+    display: flex;
+    justify-content: center;    
+}
+
+.about-container video{
+    height: 100%;
+    width: 550px;
+    border-radius: 1%;
+}
+
+.dev-name{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+#dev-box{
+    margin-left: 555px;
+    text-align: center;
+    justify-content: center;
+    background-color: #77adff;
+    height: 200px;
+    width: 250px;
+    border-radius: 10px;
+    padding-top: 70px;
+    box-shadow: 10px 10px 10px rgb(176, 176, 255);
+}
+
+.developer-div{
+    width: 100%;
+    height: 80px;    
+    box-shadow: 2px 5px 10px silver;
+    border-radius: 15px;
+    text-shadow: 0px 3px 10px rgb(151, 151, 151);
+    background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
+}
+
